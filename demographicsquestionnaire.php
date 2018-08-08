@@ -26,28 +26,26 @@ if (isRunningOnLocalhost()) {
 
 // make sure that timestamps mean the same thing regardless of where we host
 mysqli_query($mysqli, "SET time_zone = 'US/Eastern'");
-ensureTable("counterdatabase", "CREATE TABLE `counterdatabase` (
+ensureTable("demographicsquestionnaire", "CREATE TABLE `demographicsquestionnaire` (
   `row_id` int(11) NOT NULL AUTO_INCREMENT,
-  `c` varchar(100) DEFAULT NULL,
-  `u` varchar(100) DEFAULT NULL,
-  `v` int(11) DEFAULT NULL,
+  `participantid` int(11) DEFAULT NULL,
+  `age` int(11) DEFAULT NULL,
+  `gender` varchar(100) DEFAULT NULL,
+  `skill` int(11) DEFAULT NULL,
+  `q0_b` int(11) DEFAULT NULL,
   PRIMARY KEY (`row_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;");
 
 $_POST = json_decode(file_get_contents('php://input'), true);
 
-$c = mysqli_real_escape_string($mysqli, $_GET["c"]);
-$u = mysqli_real_escape_string($mysqli, $_GET["u"]);
+$participantid = mysqli_real_escape_string($mysqli, $_POST["participantid"]);
+$age = mysqli_real_escape_string($mysqli, $_POST["age"]);
+$gender = mysqli_real_escape_string($mysqli, $_POST["gender"]);
+$skill = mysqli_real_escape_string($mysqli, $_POST["skill"]);
+$q0_b = mysqli_real_escape_string($mysqli, $_POST["q0_b"]);
 
 //this means all worked and we can return user success and login user
-$result = getRowByKey("counterdatabase", "u", "e");
-$session_id = 0;
-while( $row = mysqli_fetch_array($result)){
-    $session_id = $session_id + 1;
-}
-$session_id = $session_id;
-$arr = array('session_id'=>$session_id);
-$result = insert("counterdatabase", array("c","u","v"), array($c, $u, $session_id));
+$result = insert("demographicsquestionnaire", array("participantid","age","gender","skill","q0_b"), array($participantid, $age, $gender, $skill, $q0_b));
 exit(json_encode($arr));
 
 ?>
