@@ -41,6 +41,7 @@ ensureTable("bcreate", "CREATE TABLE `bcreate` (
   `row_id` int(11) NOT NULL AUTO_INCREMENT,
   `version` int(11) DEFAULT NULL,
   `participantid` int(11) DEFAULT NULL,
+  `sessionid` int(11) DEFAULT NULL,
   `broll_list` text DEFAULT NULL,
   `queries` text DEFAULT NULL,
   `usertype` varchar(100) DEFAULT NULL,
@@ -53,13 +54,14 @@ $_POST = json_decode(file_get_contents('php://input'), true);
 
 $version = mysqli_real_escape_string($mysqli, $_POST["formData"]["version"]);
 $participantid = mysqli_real_escape_string($mysqli, $_POST["formData"]["participantid"]);
+$sessionid = mysqli_real_escape_string($mysqli, $_POST["formData"]["sessionid"]);
 $broll_list = mysqli_real_escape_string($mysqli, $_POST["formData"]["broll_list"]);
 $queries = mysqli_real_escape_string($mysqli, $_POST["formData"]["queries"]);
 $usertype = mysqli_real_escape_string($mysqli, $_POST["formData"]["usertype"]);
 $uitype = mysqli_real_escape_string($mysqli, $_POST["formData"]["uitype"]);
 $videotype = mysqli_real_escape_string($mysqli, $_POST["formData"]["videotype"]);
 
-$result = insert("bcreate", array("version","participantid","broll_list","queries","usertype","uitype","videotype"), array($version, $participantid, $broll_list, $queries, $usertype, $uitype, $videotype));
+$result = insert("bcreate", array("version","participantid","sessionid","broll_list","queries","usertype","uitype","videotype"), array($version, $participantid, $sessionid, $broll_list, $queries, $usertype, $uitype, $videotype));
 
 if (!$result) {
     //this means insert didn't work! something's odd
