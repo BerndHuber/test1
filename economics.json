@@ -2,2275 +2,1603 @@
   "job": {
     "lang": "en", 
     "user_id": 46548, 
-    "name": "economics.mp3", 
-    "duration": 185, 
-    "created_at": "Thu Jul 26 20:25:08 2018", 
-    "id": 8845600
+    "name": "demo_script.mp3", 
+    "duration": 122, 
+    "created_at": "Tue Sep 18 21:22:00 2018", 
+    "id": 9343974
   }, 
   "speakers": [
     {
-      "duration": "178.05", 
+      "duration": "19.48", 
       "confidence": null, 
       "name": "M1", 
-      "time": "6.88"
+      "time": "2.80"
+    }, 
+    {
+      "duration": "95.85", 
+      "confidence": null, 
+      "name": "M2", 
+      "time": "24.58"
     }
   ], 
   "words": [
     {
-      "duration": "0.18", 
-      "confidence": "0.960", 
-      "name": "OK", 
-      "time": "6.88"
-    }, 
-    {
-      "duration": "0.43", 
-      "confidence": "0.950", 
-      "name": "guys", 
-      "time": "7.15"
-    }, 
-    {
-      "duration": "0.26", 
-      "confidence": "0.710", 
-      "name": ".", 
-      "time": "7.60"
-    }, 
-    {
-      "duration": "0.09", 
+      "duration": "0.24", 
       "confidence": "1.000", 
-      "name": "I", 
-      "time": "8.56"
-    }, 
-    {
-      "duration": "0.23", 
-      "confidence": "1.000", 
-      "name": "guess", 
-      "time": "8.65"
-    }, 
-    {
-      "duration": "0.10", 
-      "confidence": "0.680", 
-      "name": "for", 
-      "time": "8.88"
-    }, 
-    {
-      "duration": "0.19", 
-      "confidence": "0.680", 
-      "name": "my", 
-      "time": "8.98"
-    }, 
-    {
-      "duration": "0.17", 
-      "confidence": "0.680", 
-      "name": "video", 
-      "time": "9.17"
-    }, 
-    {
-      "duration": "0.21", 
-      "confidence": "0.640", 
-      "name": "entry", 
-      "time": "9.34"
-    }, 
-    {
-      "duration": "0.37", 
-      "confidence": "1.000", 
-      "name": "I'm", 
-      "time": "9.61"
-    }, 
-    {
-      "duration": "0.20", 
-      "confidence": "0.780", 
-      "name": "gonna talk", 
-      "time": "10.32"
-    }, 
-    {
-      "duration": "0.36", 
-      "confidence": "1.000", 
-      "name": "about", 
-      "time": "10.57"
-    }, 
-    {
-      "duration": "0.57", 
-      "confidence": "0.790", 
-      "name": "irrational", 
-      "time": "12.68"
-    }, 
-    {
-      "duration": "0.73", 
-      "confidence": "0.810", 
-      "name": "consumers", 
-      "time": "13.33"
-    }, 
-    {
-      "duration": "0.51", 
-      "confidence": "1.000", 
-      "name": "irrational", 
-      "time": "14.08"
-    }, 
-    {
-      "duration": "0.66", 
-      "confidence": "1.000", 
-      "name": "consumption", 
-      "time": "14.59"
-    }, 
-    {
-      "duration": "0.17", 
-      "confidence": "0.810", 
-      "name": "in", 
-      "time": "15.73"
-    }, 
-    {
-      "duration": "0.04", 
-      "confidence": "0.950", 
-      "name": "a", 
-      "time": "15.90"
-    }, 
-    {
-      "duration": "0.30", 
-      "confidence": "0.960", 
-      "name": "field", 
-      "time": "15.94"
-    }, 
-    {
-      "duration": "0.33", 
-      "confidence": "1.000", 
-      "name": "called", 
-      "time": "16.30"
-    }, 
-    {
-      "duration": "0.28", 
-      "confidence": "0.360", 
-      "name": "behavior", 
-      "time": "17.07"
-    }, 
-    {
-      "duration": "0.27", 
-      "confidence": "0.500", 
-      "name": "or", 
-      "time": "17.57"
-    }, 
-    {
-      "duration": "0.49", 
-      "confidence": "0.920", 
-      "name": "behavioral", 
-      "time": "18.26"
-    }, 
-    {
-      "duration": "0.69", 
-      "confidence": "1.000", 
-      "name": "economics", 
-      "time": "18.82"
-    }, 
-    {
-      "duration": "0.33", 
-      "confidence": "0.840", 
-      "name": ".", 
-      "time": "19.51"
-    }, 
-    {
-      "duration": "0.12", 
-      "confidence": "0.930", 
-      "name": "It's", 
-      "time": "19.84"
-    }, 
-    {
-      "duration": "0.18", 
-      "confidence": "0.990", 
-      "name": "so", 
-      "time": "19.96"
-    }, 
-    {
-      "duration": "0.45", 
-      "confidence": "1.000", 
-      "name": "popular", 
-      "time": "20.14"
-    }, 
-    {
-      "duration": "0.31", 
-      "confidence": "0.890", 
-      "name": "now", 
-      "time": "20.59"
-    }, 
-    {
-      "duration": "0.19", 
-      "confidence": "0.900", 
-      "name": ".", 
-      "time": "20.90"
-    }, 
-    {
-      "duration": "0.35", 
-      "confidence": "0.980", 
       "name": "This", 
-      "time": "21.16"
-    }, 
-    {
-      "duration": "0.12", 
-      "confidence": "0.980", 
-      "name": "is", 
-      "time": "21.60"
-    }, 
-    {
-      "duration": "0.33", 
-      "confidence": "0.880", 
-      "name": "so", 
-      "time": "21.73"
-    }, 
-    {
-      "duration": "0.21", 
-      "confidence": "0.960", 
-      "name": "like", 
-      "time": "22.08"
-    }, 
-    {
-      "duration": "0.87", 
-      "confidence": "1.000", 
-      "name": "economics", 
-      "time": "22.93"
-    }, 
-    {
-      "duration": "0.09", 
-      "confidence": "0.790", 
-      "name": ".", 
-      "time": "24.50"
-    }, 
-    {
-      "duration": "0.14", 
-      "confidence": "0.940", 
-      "name": "And", 
-      "time": "24.67"
-    }, 
-    {
-      "duration": "0.16", 
-      "confidence": "0.730", 
-      "name": "there's", 
-      "time": "24.82"
-    }, 
-    {
-      "duration": "0.03", 
-      "confidence": "1.000", 
-      "name": "a", 
-      "time": "25.00"
-    }, 
-    {
-      "duration": "0.52", 
-      "confidence": "0.640", 
-      "name": "bestseller", 
-      "time": "25.03"
-    }, 
-    {
-      "duration": "0.24", 
-      "confidence": "0.950", 
-      "name": "out", 
-      "time": "25.67"
-    }, 
-    {
-      "duration": "0.78", 
-      "confidence": "0.580", 
-      "name": "there and stuff", 
-      "time": "25.91"
-    }, 
-    {
-      "duration": "0.19", 
-      "confidence": "0.580", 
-      "name": ".", 
-      "time": "26.72"
-    }, 
-    {
-      "duration": "0.24", 
-      "confidence": "0.900", 
-      "name": "It's", 
-      "time": "26.95"
-    }, 
-    {
-      "duration": "0.39", 
-      "confidence": "1.000", 
-      "name": "real", 
-      "time": "27.19"
-    }, 
-    {
-      "duration": "0.07", 
-      "confidence": "0.820", 
-      "name": ".", 
-      "time": "27.58"
-    }, 
-    {
-      "duration": "0.18", 
-      "confidence": "1.000", 
-      "name": "It's", 
-      "time": "27.67"
-    }, 
-    {
-      "duration": "0.27", 
-      "confidence": "1.000", 
-      "name": "like", 
-      "time": "27.85"
-    }, 
-    {
-      "duration": "0.06", 
-      "confidence": "1.000", 
-      "name": "a", 
-      "time": "28.60"
-    }, 
-    {
-      "duration": "0.36", 
-      "confidence": "1.000", 
-      "name": "blend", 
-      "time": "28.66"
-    }, 
-    {
-      "duration": "0.12", 
-      "confidence": "1.000", 
-      "name": "of", 
-      "time": "29.02"
-    }, 
-    {
-      "duration": "0.21", 
-      "confidence": "1.000", 
-      "name": "like", 
-      "time": "29.14"
-    }, 
-    {
-      "duration": "1.08", 
-      "confidence": "1.000", 
-      "name": "psychology", 
-      "time": "29.35"
-    }, 
-    {
-      "duration": "0.27", 
-      "confidence": "1.000", 
-      "name": "and", 
-      "time": "30.99"
-    }, 
-    {
-      "duration": "0.26", 
-      "confidence": "0.930", 
-      "name": "pure", 
-      "time": "31.81"
-    }, 
-    {
-      "duration": "0.93", 
-      "confidence": "1.000", 
-      "name": "economics", 
-      "time": "32.11"
-    }, 
-    {
-      "duration": "0.52", 
-      "confidence": "0.860", 
-      "name": ".", 
-      "time": "33.10"
-    }, 
-    {
-      "duration": "0.20", 
-      "confidence": "0.980", 
-      "name": "And", 
-      "time": "33.69"
-    }, 
-    {
-      "duration": "0.12", 
-      "confidence": "1.000", 
-      "name": "it", 
-      "time": "33.94"
-    }, 
-    {
-      "duration": "0.30", 
-      "confidence": "0.500", 
-      "name": "seems", 
-      "time": "34.06"
-    }, 
-    {
-      "duration": "0.24", 
-      "confidence": "1.000", 
-      "name": "like", 
-      "time": "34.36"
-    }, 
-    {
-      "duration": "0.06", 
-      "confidence": "0.980", 
-      "name": "you", 
-      "time": "34.92"
-    }, 
-    {
-      "duration": "0.18", 
-      "confidence": "0.980", 
-      "name": "know", 
-      "time": "34.98"
-    }, 
-    {
-      "duration": "0.87", 
-      "confidence": "1.000", 
-      "name": "economics", 
-      "time": "35.17"
-    }, 
-    {
-      "duration": "0.15", 
-      "confidence": "0.990", 
-      "name": "is", 
-      "time": "36.13"
-    }, 
-    {
-      "duration": "0.36", 
-      "confidence": "1.000", 
-      "name": "kind", 
-      "time": "36.28"
-    }, 
-    {
-      "duration": "0.12", 
-      "confidence": "1.000", 
-      "name": "of", 
-      "time": "36.64"
-    }, 
-    {
-      "duration": "0.24", 
-      "confidence": "1.000", 
-      "name": "like", 
-      "time": "36.76"
-    }, 
-    {
-      "duration": "0.06", 
-      "confidence": "0.920", 
-      "name": "a", 
-      "time": "37.73"
-    }, 
-    {
-      "duration": "0.23", 
-      "confidence": "0.940", 
-      "name": "little", 
-      "time": "37.82"
-    }, 
-    {
-      "duration": "0.22", 
-      "confidence": "0.780", 
-      "name": "bit", 
-      "time": "38.13"
-    }, 
-    {
-      "duration": "0", 
-      "confidence": "1.000", 
-      "name": ".", 
-      "time": "38.35"
-    }, 
-    {
-      "duration": "0.06", 
-      "confidence": "1.000", 
-      "name": "A", 
-      "time": "39.28"
-    }, 
-    {
-      "duration": "0.18", 
-      "confidence": "1.000", 
-      "name": "little", 
-      "time": "39.34"
-    }, 
-    {
-      "duration": "0.21", 
-      "confidence": "1.000", 
-      "name": "bit", 
-      "time": "39.52"
-    }, 
-    {
-      "duration": "0.27", 
-      "confidence": "1.000", 
-      "name": "like", 
-      "time": "39.73"
-    }, 
-    {
-      "duration": "0.13", 
-      "confidence": "0.400", 
-      "name": "it's", 
-      "time": "40.32"
-    }, 
-    {
-      "duration": "0.09", 
-      "confidence": "0.990", 
-      "name": "a", 
-      "time": "40.54"
-    }, 
-    {
-      "duration": "0.69", 
-      "confidence": "1.000", 
-      "name": "chaos", 
-      "time": "40.63"
-    }, 
-    {
-      "duration": "0.57", 
-      "confidence": "1.000", 
-      "name": "chaotic element to it", 
-      "time": "41.38"
-    }, 
-    {
-      "duration": "0.20", 
-      "confidence": "0.660", 
-      "name": "right", 
-      "time": "43.18"
-    }, 
-    {
-      "duration": "0.18", 
-      "confidence": "0.730", 
-      "name": ".", 
-      "time": "43.53"
-    }, 
-    {
-      "duration": "0.07", 
-      "confidence": "0.440", 
-      "name": "A", 
-      "time": "43.74"
-    }, 
-    {
-      "duration": "0.41", 
-      "confidence": "0.500", 
-      "name": "chaos", 
-      "time": "43.90"
-    }, 
-    {
-      "duration": "0.06", 
-      "confidence": "0.660", 
-      "name": "a", 
-      "time": "44.47"
-    }, 
-    {
-      "duration": "0.29", 
-      "confidence": "0.530", 
-      "name": "little", 
-      "time": "44.81"
-    }, 
-    {
-      "duration": "0.38", 
-      "confidence": "0.480", 
-      "name": "bit", 
-      "time": "45.20"
-    }, 
-    {
-      "duration": "0", 
-      "confidence": "1.000", 
-      "name": ".", 
-      "time": "45.58"
-    }, 
-    {
-      "duration": "0.51", 
-      "confidence": "1.000", 
-      "name": "Because", 
-      "time": "46.54"
-    }, 
-    {
-      "duration": "0.47", 
-      "confidence": "0.710", 
-      "name": "people", 
-      "time": "47.29"
-    }, 
-    {
-      "duration": "0.46", 
-      "confidence": "0.860", 
-      "name": "people", 
-      "time": "47.90"
-    }, 
-    {
-      "duration": "0.10", 
-      "confidence": "0.710", 
-      "name": "who", 
-      "time": "48.59"
-    }, 
-    {
-      "duration": "0.61", 
-      "confidence": "1.000", 
-      "name": "actually", 
-      "time": "48.72"
-    }, 
-    {
-      "duration": "0", 
-      "confidence": "1.000", 
-      "name": ".", 
-      "time": "49.33"
-    }, 
-    {
-      "duration": "0.24", 
-      "confidence": "0.930", 
-      "name": "More", 
-      "time": "50.12"
-    }, 
-    {
-      "duration": "0.07", 
-      "confidence": "0.800", 
-      "name": "often", 
-      "time": "50.37"
-    }, 
-    {
-      "duration": "0.45", 
-      "confidence": "1.000", 
-      "name": "time", 
-      "time": "50.44"
-    }, 
-    {
-      "duration": "0.23", 
-      "confidence": "0.660", 
-      "name": "alot of", 
-      "time": "51.39"
-    }, 
-    {
-      "duration": "0.23", 
-      "confidence": "0.680", 
-      "name": "people", 
-      "time": "51.66"
-    }, 
-    {
-      "duration": "0.26", 
-      "confidence": "0.650", 
-      "name": "cannot", 
-      "time": "51.90"
-    }, 
-    {
-      "duration": "0.41", 
-      "confidence": "0.860", 
-      "name": "swallow", 
-      "time": "52.30"
-    }, 
-    {
-      "duration": "0.19", 
-      "confidence": "0.440", 
-      "name": "their", 
-      "time": "52.77"
-    }, 
-    {
-      "duration": "0.47", 
-      "confidence": "0.510", 
-      "name": "pride", 
-      "time": "53.17"
-    }, 
-    {
-      "duration": "0.48", 
-      "confidence": "0.960", 
-      "name": "or", 
-      "time": "53.74"
-    }, 
-    {
-      "duration": "0.06", 
-      "confidence": "1.000", 
-      "name": "a", 
-      "time": "54.34"
-    }, 
-    {
-      "duration": "0.21", 
-      "confidence": "1.000", 
-      "name": "lot", 
-      "time": "54.40"
-    }, 
-    {
-      "duration": "0.12", 
-      "confidence": "1.000", 
-      "name": "of", 
-      "time": "54.61"
-    }, 
-    {
-      "duration": "0.63", 
-      "confidence": "1.000", 
-      "name": "people", 
-      "time": "54.73"
-    }, 
-    {
-      "duration": "0.12", 
-      "confidence": "0.900", 
-      "name": "will", 
-      "time": "55.65"
-    }, 
-    {
-      "duration": "0.39", 
-      "confidence": "1.000", 
-      "name": "stick", 
-      "time": "55.78"
-    }, 
-    {
-      "duration": "0.39", 
-      "confidence": "1.000", 
-      "name": "by", 
-      "time": "56.17"
-    }, 
-    {
-      "duration": "0.33", 
-      "confidence": "1.000", 
-      "name": "their", 
-      "time": "56.56"
-    }, 
-    {
-      "duration": "0.91", 
-      "confidence": "0.940", 
-      "name": "religion", 
-      "time": "57.28"
-    }, 
-    {
-      "duration": "1.00", 
-      "confidence": "0.760", 
-      "name": ".", 
-      "time": "58.22"
-    }, 
-    {
-      "duration": "0.03", 
-      "confidence": "1.000", 
-      "name": "A", 
-      "time": "59.53"
-    }, 
-    {
-      "duration": "0.24", 
-      "confidence": "1.000", 
-      "name": "lot", 
-      "time": "59.56"
-    }, 
-    {
-      "duration": "0.09", 
-      "confidence": "1.000", 
-      "name": "of", 
-      "time": "59.80"
-    }, 
-    {
-      "duration": "0.54", 
-      "confidence": "1.000", 
-      "name": "people", 
-      "time": "59.89"
-    }, 
-    {
-      "duration": "0.14", 
-      "confidence": "0.660", 
-      "name": "will", 
-      "time": "61.77"
+      "time": "2.80"
     }, 
     {
       "duration": "0.42", 
-      "confidence": "0.990", 
-      "name": "stick", 
-      "time": "62.65"
+      "confidence": "1.000", 
+      "name": "video", 
+      "time": "3.04"
     }, 
     {
       "duration": "0.21", 
       "confidence": "1.000", 
-      "name": "by", 
-      "time": "63.07"
-    }, 
-    {
-      "duration": "0.18", 
-      "confidence": "1.000", 
-      "name": "their", 
-      "time": "63.28"
-    }, 
-    {
-      "duration": "0.75", 
-      "confidence": "1.000", 
-      "name": "friends", 
-      "time": "63.46"
-    }, 
-    {
-      "duration": "0.17", 
-      "confidence": "0.930", 
-      "name": "or", 
-      "time": "64.29"
-    }, 
-    {
-      "duration": "0.18", 
-      "confidence": "0.990", 
-      "name": "their", 
-      "time": "64.48"
-    }, 
-    {
-      "duration": "0.87", 
-      "confidence": "1.000", 
-      "name": "family", 
-      "time": "64.66"
-    }, 
-    {
-      "duration": "0.12", 
-      "confidence": "0.510", 
-      "name": "their", 
-      "time": "65.71"
-    }, 
-    {
-      "duration": "0.90", 
-      "confidence": "1.000", 
-      "name": "religion", 
-      "time": "65.83"
-    }, 
-    {
-      "duration": "0.21", 
-      "confidence": "1.000", 
-      "name": "they", 
-      "time": "67.15"
-    }, 
-    {
-      "duration": "0.21", 
-      "confidence": "0.980", 
-      "name": "think", 
-      "time": "68.56"
-    }, 
-    {
-      "duration": "0.09", 
-      "confidence": "1.000", 
-      "name": "they", 
-      "time": "69.22"
+      "name": "will", 
+      "time": "3.46"
     }, 
     {
       "duration": "0.24", 
-      "confidence": "0.970", 
-      "name": "can't", 
-      "time": "69.31"
-    }, 
-    {
-      "duration": "0.39", 
       "confidence": "1.000", 
-      "name": "swallow", 
-      "time": "69.55"
+      "name": "give", 
+      "time": "3.67"
     }, 
     {
-      "duration": "0.18", 
+      "duration": "0.06", 
       "confidence": "1.000", 
-      "name": "their", 
-      "time": "69.94"
+      "name": "a", 
+      "time": "3.94"
     }, 
     {
-      "duration": "0.62", 
-      "confidence": "0.970", 
-      "name": "pride", 
-      "time": "70.12"
-    }, 
-    {
-      "duration": "0", 
+      "duration": "0.30", 
       "confidence": "1.000", 
-      "name": ".", 
-      "time": "70.74"
+      "name": "quick", 
+      "time": "4.00"
+    }, 
+    {
+      "duration": "0.57", 
+      "confidence": "1.000", 
+      "name": "walkthrough", 
+      "time": "4.30"
     }, 
     {
       "duration": "0.15", 
       "confidence": "1.000", 
-      "name": "And", 
-      "time": "71.23"
+      "name": "of", 
+      "time": "4.87"
     }, 
     {
-      "duration": "0.30", 
-      "confidence": "0.980", 
-      "name": "that's", 
-      "time": "71.38"
-    }, 
-    {
-      "duration": "0.39", 
-      "confidence": "0.940", 
-      "name": "why", 
-      "time": "71.68"
-    }, 
-    {
-      "duration": "0", 
+      "duration": "0.21", 
       "confidence": "1.000", 
-      "name": ".", 
-      "time": "72.07"
-    }, 
-    {
-      "duration": "0.27", 
-      "confidence": "0.470", 
-      "name": "Alot of", 
-      "time": "72.41"
-    }, 
-    {
-      "duration": "0.50", 
-      "confidence": "0.960", 
-      "name": "people", 
-      "time": "73.13"
-    }, 
-    {
-      "duration": "0.33", 
-      "confidence": "0.940", 
-      "name": "will", 
-      "time": "74.02"
-    }, 
-    {
-      "duration": "0.75", 
-      "confidence": "1.000", 
-      "name": "also", 
-      "time": "74.44"
-    }, 
-    {
-      "duration": "0", 
-      "confidence": "1.000", 
-      "name": ".", 
-      "time": "75.19"
+      "name": "how", 
+      "time": "5.02"
     }, 
     {
       "duration": "0.18", 
-      "confidence": "0.870", 
-      "name": "Like", 
-      "time": "77.13"
+      "confidence": "1.000", 
+      "name": "to", 
+      "time": "5.23"
+    }, 
+    {
+      "duration": "0.24", 
+      "confidence": "1.000", 
+      "name": "use", 
+      "time": "5.41"
+    }, 
+    {
+      "duration": "0.14", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "5.65"
+    }, 
+    {
+      "duration": "0.33", 
+      "confidence": "0.550", 
+      "name": "B-script", 
+      "time": "5.99"
+    }, 
+    {
+      "duration": "0.56", 
+      "confidence": "1.000", 
+      "name": "system.", 
+      "time": "6.34"
+    }, 
+    {
+      "duration": "0.09", 
+      "confidence": "1.000", 
+      "name": "On", 
+      "time": "9.64"
+    }, 
+    {
+      "duration": "0.06", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "9.73"
+    }, 
+    {
+      "duration": "0.24", 
+      "confidence": "1.000", 
+      "name": "left", 
+      "time": "9.79"
+    }, 
+    {
+      "duration": "0.18", 
+      "confidence": "1.000", 
+      "name": "hand", 
+      "time": "10.03"
+    }, 
+    {
+      "duration": "0.36", 
+      "confidence": "1.000", 
+      "name": "side", 
+      "time": "10.21"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "0.910", 
+      "name": "you", 
+      "time": "10.60"
     }, 
     {
       "duration": "0.27", 
-      "confidence": "0.410", 
-      "name": "let", 
-      "time": "77.50"
+      "confidence": "1.000", 
+      "name": "see", 
+      "time": "10.72"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "0.880", 
+      "name": "the", 
+      "time": "10.99"
+    }, 
+    {
+      "duration": "0.50", 
+      "confidence": "0.930", 
+      "name": "A-roll", 
+      "time": "11.11"
+    }, 
+    {
+      "duration": "0.49", 
+      "confidence": "0.990", 
+      "name": "video", 
+      "time": "11.64"
+    }, 
+    {
+      "duration": "0.03", 
+      "confidence": "0.670", 
+      "name": ".", 
+      "time": "12.13"
+    }, 
+    {
+      "duration": "0.09", 
+      "confidence": "1.000", 
+      "name": "On", 
+      "time": "14.01"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "14.10"
+    }, 
+    {
+      "duration": "0.27", 
+      "confidence": "1.000", 
+      "name": "right", 
+      "time": "14.22"
+    }, 
+    {
+      "duration": "0.24", 
+      "confidence": "1.000", 
+      "name": "side", 
+      "time": "14.49"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "0.900", 
+      "name": "you", 
+      "time": "14.73"
+    }, 
+    {
+      "duration": "0.18", 
+      "confidence": "1.000", 
+      "name": "see", 
+      "time": "14.88"
+    }, 
+    {
+      "duration": "0.09", 
+      "confidence": "1.000", 
+      "name": "a", 
+      "time": "15.06"
     }, 
     {
       "duration": "0.60", 
       "confidence": "1.000", 
-      "name": "economic", 
-      "time": "77.95"
-    }, 
-    {
-      "duration": "0.96", 
-      "confidence": "1.000", 
-      "name": "opportunities", 
-      "time": "78.64"
-    }, 
-    {
-      "duration": "0.08", 
-      "confidence": "0.710", 
-      "name": "", 
-      "time": "79.60"
-    }, 
-    {
-      "duration": "0.41", 
-      "confidence": "0.700", 
-      "name": "go", 
-      "time": "79.71"
-    }, 
-    {
-      "duration": "0", 
-      "confidence": "1.000", 
-      "name": ".", 
-      "time": "80.12"
-    }, 
-    {
-      "duration": "0.21", 
-      "confidence": "0.940", 
-      "name": "You", 
-      "time": "80.94"
-    }, 
-    {
-      "duration": "0.30", 
-      "confidence": "0.960", 
-      "name": "know", 
-      "time": "81.16"
-    }, 
-    {
-      "duration": "1.63", 
-      "confidence": "0.650", 
-      "name": ".", 
-      "time": "81.46"
-    }, 
-    {
-      "duration": "0.14", 
-      "confidence": "0.640", 
-      "name": "So", 
-      "time": "83.35"
-    }, 
-    {
-      "duration": "0.45", 
-      "confidence": "0.970", 
-      "name": "that's", 
-      "time": "83.59"
-    }, 
-    {
-      "duration": "0.42", 
-      "confidence": "1.000", 
-      "name": "sort", 
-      "time": "84.25"
-    }, 
-    {
-      "duration": "0.12", 
-      "confidence": "0.990", 
-      "name": "of", 
-      "time": "84.67"
-    }, 
-    {
-      "duration": "0.54", 
-      "confidence": "0.810", 
-      "name": "called", 
-      "time": "84.79"
-    }, 
-    {
-      "duration": "0.64", 
-      "confidence": "0.860", 
-      "name": "irrational", 
-      "time": "85.99"
-    }, 
-    {
-      "duration": "0.69", 
-      "confidence": "0.990", 
-      "name": "consumption", 
-      "time": "86.70"
-    }, 
-    {
-      "duration": "1.44", 
-      "confidence": "0.900", 
-      "name": ".", 
-      "time": "87.39"
-    }, 
-    {
-      "duration": "0.21", 
-      "confidence": "0.990", 
-      "name": "It's", 
-      "time": "88.99"
-    }, 
-    {
-      "duration": "0.27", 
-      "confidence": "1.000", 
-      "name": "not", 
-      "time": "89.20"
+      "name": "transcript", 
+      "time": "15.15"
     }, 
     {
       "duration": "0.15", 
-      "confidence": "0.970", 
-      "name": "it's", 
-      "time": "89.53"
+      "confidence": "1.000", 
+      "name": "of", 
+      "time": "15.75"
     }, 
     {
       "duration": "0.18", 
       "confidence": "1.000", 
-      "name": "not", 
-      "time": "89.68"
-    }, 
-    {
-      "duration": "0.26", 
-      "confidence": "1.000", 
-      "name": "really", 
-      "time": "89.86"
-    }, 
-    {
-      "duration": "0.63", 
-      "confidence": "1.000", 
-      "name": "addiction", 
-      "time": "90.13"
-    }, 
-    {
-      "duration": "0.20", 
-      "confidence": "1.000", 
-      "name": "has", 
-      "time": "91.04"
-    }, 
-    {
-      "duration": "0.24", 
-      "confidence": "0.740", 
-      "name": "no", 
-      "time": "91.39"
-    }, 
-    {
-      "duration": "0.48", 
-      "confidence": "1.000", 
-      "name": "addiction", 
-      "time": "92.78"
-    }, 
-    {
-      "duration": "0.02", 
-      "confidence": "0.540", 
-      "name": ".", 
-      "time": "93.26"
-    }, 
-    {
-      "duration": "0.15", 
-      "confidence": "0.960", 
-      "name": "It's", 
-      "time": "93.28"
-    }, 
-    {
-      "duration": "0.12", 
-      "confidence": "0.990", 
-      "name": "not", 
-      "time": "93.43"
-    }, 
-    {
-      "duration": "0.30", 
-      "confidence": "0.990", 
-      "name": "like", 
-      "time": "93.55"
-    }, 
-    {
-      "duration": "0", 
-      "confidence": "1.000", 
-      "name": ".", 
-      "time": "93.85"
-    }, 
-    {
-      "duration": "0.21", 
-      "confidence": "0.980", 
-      "name": "When", 
-      "time": "94.45"
-    }, 
-    {
-      "duration": "0.33", 
-      "confidence": "0.990", 
-      "name": "things", 
-      "time": "94.90"
-    }, 
-    {
-      "duration": "0.21", 
-      "confidence": "1.000", 
-      "name": "just", 
-      "time": "95.23"
+      "name": "that", 
+      "time": "15.90"
     }, 
     {
       "duration": "0.42", 
       "confidence": "1.000", 
-      "name": "go", 
-      "time": "95.44"
+      "name": "video", 
+      "time": "16.08"
+    }, 
+    {
+      "duration": "0.03", 
+      "confidence": "0.920", 
+      "name": ".", 
+      "time": "16.50"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "0.990", 
+      "name": "The", 
+      "time": "18.17"
+    }, 
+    {
+      "duration": "0.57", 
+      "confidence": "1.000", 
+      "name": "transcript", 
+      "time": "18.29"
     }, 
     {
       "duration": "0.30", 
-      "confidence": "0.910", 
-      "name": "like", 
-      "time": "96.01"
+      "confidence": "1.000", 
+      "name": "acts", 
+      "time": "18.95"
     }, 
     {
-      "duration": "0", 
+      "duration": "0.18", 
       "confidence": "1.000", 
+      "name": "as", 
+      "time": "19.25"
+    }, 
+    {
+      "duration": "0.09", 
+      "confidence": "0.990", 
+      "name": "the", 
+      "time": "19.43"
+    }, 
+    {
+      "duration": "0.27", 
+      "confidence": "1.000", 
+      "name": "main", 
+      "time": "19.52"
+    }, 
+    {
+      "duration": "0.27", 
+      "confidence": "0.680", 
+      "name": "user", 
+      "time": "19.79"
+    }, 
+    {
+      "duration": "0.51", 
+      "confidence": "1.000", 
+      "name": "interface", 
+      "time": "20.06"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "to", 
+      "time": "20.60"
+    }, 
+    {
+      "duration": "0.54", 
+      "confidence": "1.000", 
+      "name": "navigate", 
+      "time": "20.75"
+    }, 
+    {
+      "duration": "0.19", 
+      "confidence": "0.990", 
+      "name": "and", 
+      "time": "21.32"
+    }, 
+    {
+      "duration": "0.27", 
+      "confidence": "1.000", 
+      "name": "edit", 
+      "time": "21.53"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "21.80"
+    }, 
+    {
+      "duration": "0.34", 
+      "confidence": "1.000", 
+      "name": "video", 
+      "time": "21.92"
+    }, 
+    {
+      "duration": "0.02", 
+      "confidence": "0.790", 
       "name": ".", 
-      "time": "96.31"
+      "time": "22.26"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "To", 
+      "time": "24.58"
+    }, 
+    {
+      "duration": "0.25", 
+      "confidence": "1.000", 
+      "name": "play", 
+      "time": "24.70"
+    }, 
+    {
+      "duration": "0.11", 
+      "confidence": "0.820", 
+      "name": "the", 
+      "time": "24.95"
     }, 
     {
       "duration": "0.39", 
+      "confidence": "1.000", 
+      "name": "video", 
+      "time": "25.06"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "1.000", 
+      "name": "you", 
+      "time": "25.45"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "1.000", 
+      "name": "can", 
+      "time": "25.66"
+    }, 
+    {
+      "duration": "0.27", 
+      "confidence": "1.000", 
+      "name": "click", 
+      "time": "25.87"
+    }, 
+    {
+      "duration": "0.18", 
+      "confidence": "1.000", 
+      "name": "on", 
+      "time": "26.14"
+    }, 
+    {
+      "duration": "0.29", 
+      "confidence": "0.670", 
+      "name": "play", 
+      "time": "26.32"
+    }, 
+    {
+      "duration": "0.18", 
+      "confidence": "1.000", 
+      "name": "and", 
+      "time": "26.62"
+    }, 
+    {
+      "duration": "0.57", 
+      "confidence": "1.000", 
+      "name": "pause", 
+      "time": "26.80"
+    }, 
+    {
+      "duration": "0.11", 
+      "confidence": "0.650", 
+      "name": "with", 
+      "time": "27.57"
+    }, 
+    {
+      "duration": "0.09", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "27.82"
+    }, 
+    {
+      "duration": "0.39", 
+      "confidence": "1.000", 
+      "name": "current", 
+      "time": "27.91"
+    }, 
+    {
+      "duration": "0.54", 
+      "confidence": "0.950", 
+      "name": "position", 
+      "time": "28.30"
+    }, 
+    {
+      "duration": "0.12", 
       "confidence": "0.980", 
-      "name": "Off the", 
-      "time": "96.91"
+      "name": "in", 
+      "time": "28.87"
+    }, 
+    {
+      "duration": "0.09", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "28.99"
     }, 
     {
       "duration": "0.33", 
-      "confidence": "0.980", 
-      "name": "road", 
-      "time": "97.30"
+      "confidence": "1.000", 
+      "name": "video", 
+      "time": "29.08"
     }, 
     {
-      "duration": "0", 
+      "duration": "0.69", 
       "confidence": "1.000", 
+      "name": "indicated", 
+      "time": "29.47"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "1.000", 
+      "name": "with", 
+      "time": "30.16"
+    }, 
+    {
+      "duration": "0.09", 
+      "confidence": "0.770", 
+      "name": "the", 
+      "time": "30.37"
+    }, 
+    {
+      "duration": "0.30", 
+      "confidence": "0.980", 
+      "name": "blue", 
+      "time": "30.46"
+    }, 
+    {
+      "duration": "0.51", 
+      "confidence": "1.000", 
+      "name": "highlighted", 
+      "time": "30.79"
+    }, 
+    {
+      "duration": "0.49", 
+      "confidence": "1.000", 
+      "name": "text", 
+      "time": "31.33"
+    }, 
+    {
+      "duration": "0.02", 
+      "confidence": "0.720", 
       "name": ".", 
-      "time": "97.63"
+      "time": "31.82"
+    }, 
+    {
+      "duration": "0.09", 
+      "confidence": "1.000", 
+      "name": "You", 
+      "time": "33.77"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "can", 
+      "time": "33.86"
+    }, 
+    {
+      "duration": "0.24", 
+      "confidence": "1.000", 
+      "name": "also", 
+      "time": "34.01"
+    }, 
+    {
+      "duration": "0.27", 
+      "confidence": "1.000", 
+      "name": "click", 
+      "time": "34.25"
+    }, 
+    {
+      "duration": "0.09", 
+      "confidence": "1.000", 
+      "name": "on", 
+      "time": "34.52"
+    }, 
+    {
+      "duration": "0.09", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "34.61"
+    }, 
+    {
+      "duration": "0.69", 
+      "confidence": "1.000", 
+      "name": "transcript", 
+      "time": "34.70"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "to", 
+      "time": "35.39"
+    }, 
+    {
+      "duration": "0.18", 
+      "confidence": "1.000", 
+      "name": "get", 
+      "time": "35.54"
+    }, 
+    {
+      "duration": "0.18", 
+      "confidence": "0.630", 
+      "name": "to", 
+      "time": "35.72"
+    }, 
+    {
+      "duration": "0.39", 
+      "confidence": "1.000", 
+      "name": "different", 
+      "time": "35.90"
+    }, 
+    {
+      "duration": "0.66", 
+      "confidence": "0.990", 
+      "name": "positions", 
+      "time": "36.29"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "in", 
+      "time": "36.95"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "37.10"
+    }, 
+    {
+      "duration": "0.42", 
+      "confidence": "1.000", 
+      "name": "video", 
+      "time": "37.22"
+    }, 
+    {
+      "duration": "0.02", 
+      "confidence": "0.690", 
+      "name": ".", 
+      "time": "37.64"
+    }, 
+    {
+      "duration": "0.42", 
+      "confidence": "0.910", 
+      "name": "To", 
+      "time": "41.18"
+    }, 
+    {
+      "duration": "0.25", 
+      "confidence": "0.840", 
+      "name": "insert", 
+      "time": "41.60"
+    }, 
+    {
+      "duration": "0.44", 
+      "confidence": "0.730", 
+      "name": "B-roll", 
+      "time": "41.87"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "you", 
+      "time": "42.51"
+    }, 
+    {
+      "duration": "0.30", 
+      "confidence": "1.000", 
+      "name": "click", 
+      "time": "42.63"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "on", 
+      "time": "42.93"
+    }, 
+    {
+      "duration": "0.06", 
+      "confidence": "1.000", 
+      "name": "a", 
+      "time": "43.05"
+    }, 
+    {
+      "duration": "0.60", 
+      "confidence": "1.000", 
+      "name": "specific", 
+      "time": "43.11"
+    }, 
+    {
+      "duration": "0.36", 
+      "confidence": "0.990", 
+      "name": "word", 
+      "time": "43.71"
+    }, 
+    {
+      "duration": "0.11", 
+      "confidence": "0.870", 
+      "name": "where", 
+      "time": "44.07"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "0.990", 
+      "name": "you", 
+      "time": "44.19"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "0.990", 
+      "name": "would", 
+      "time": "44.34"
+    }, 
+    {
+      "duration": "0.24", 
+      "confidence": "1.000", 
+      "name": "like", 
+      "time": "44.49"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "to", 
+      "time": "44.73"
     }, 
     {
       "duration": "0.45", 
       "confidence": "1.000", 
-      "name": "Off the", 
-      "time": "98.29"
+      "name": "insert", 
+      "time": "44.85"
     }, 
     {
-      "duration": "0.24", 
-      "confidence": "0.980", 
-      "name": "road", 
-      "time": "98.74"
+      "duration": "0.09", 
+      "confidence": "0.920", 
+      "name": "the", 
+      "time": "45.30"
     }, 
     {
-      "duration": "0.27", 
-      "confidence": "0.980", 
-      "name": "like", 
-      "time": "99.01"
-    }, 
-    {
-      "duration": "0.08", 
-      "confidence": "0.820", 
-      "name": "addiction", 
-      "time": "99.46"
-    }, 
-    {
-      "duration": "0.39", 
-      "confidence": "0.810", 
-      "name": "", 
-      "time": "99.58"
-    }, 
-    {
-      "duration": "0.40", 
+      "duration": "0.48", 
       "confidence": "1.000", 
-      "name": "drug", 
-      "time": "99.99"
+      "name": "B-roll", 
+      "time": "45.39"
+    }, 
+    {
+      "duration": "0.54", 
+      "confidence": "0.940", 
+      "name": ".", 
+      "time": "45.90"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "For", 
+      "time": "46.47"
+    }, 
+    {
+      "duration": "0.45", 
+      "confidence": "1.000", 
+      "name": "example", 
+      "time": "46.62"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "0.940", 
+      "name": "this", 
+      "time": "47.10"
+    }, 
+    {
+      "duration": "0.33", 
+      "confidence": "0.430", 
+      "name": "word.", 
+      "time": "47.31"
+    }, 
+    {
+      "duration": "0.05", 
+      "confidence": "0.850", 
+      "name": "A", 
+      "time": "49.26"
+    }, 
+    {
+      "duration": "0.36", 
+      "confidence": "1.000", 
+      "name": "search", 
+      "time": "49.50"
+    }, 
+    {
+      "duration": "0.48", 
+      "confidence": "1.000", 
+      "name": "interface", 
+      "time": "49.86"
+    }, 
+    {
+      "duration": "0.50", 
+      "confidence": "0.910", 
+      "name": "searches", 
+      "time": "50.34"
+    }, 
+    {
+      "duration": "0.42", 
+      "confidence": "1.000", 
+      "name": "social", 
+      "time": "50.85"
+    }, 
+    {
+      "duration": "0.33", 
+      "confidence": "1.000", 
+      "name": "media", 
+      "time": "51.27"
+    }, 
+    {
+      "duration": "0.09", 
+      "confidence": "0.930", 
+      "name": "and", 
+      "time": "51.60"
+    }, 
+    {
+      "duration": "0.60", 
+      "confidence": "0.970", 
+      "name": "professional", 
+      "time": "51.69"
+    }, 
+    {
+      "duration": "0.33", 
+      "confidence": "1.000", 
+      "name": "style", 
+      "time": "52.29"
+    }, 
+    {
+      "duration": "0.35", 
+      "confidence": "0.980", 
+      "name": "video", 
+      "time": "52.62"
     }, 
     {
       "duration": "1.01", 
       "confidence": "1.000", 
-      "name": "addiction", 
-      "time": "100.39"
+      "name": "repositories", 
+      "time": "53.01"
     }, 
     {
-      "duration": "0.60", 
-      "confidence": "0.810", 
-      "name": "alcoholism", 
-      "time": "101.72"
+      "duration": "0.21", 
+      "confidence": "1.000", 
+      "name": "for", 
+      "time": "54.03"
     }, 
     {
-      "duration": "0.84", 
-      "confidence": "0.600", 
+      "duration": "0.06", 
+      "confidence": "1.000", 
       "name": "", 
-      "time": "102.35"
+      "time": "54.24"
     }, 
     {
-      "duration": "0", 
-      "confidence": "1.000", 
-      "name": ".", 
-      "time": "103.19"
+      "duration": "0.40", 
+      "confidence": "0.550", 
+      "name": "B-roll", 
+      "time": "54.30"
     }, 
     {
-      "duration": "0.60", 
-      "confidence": "0.870", 
-      "name": "Killing", 
-      "time": "103.90"
-    }, 
-    {
-      "duration": "0.57", 
-      "confidence": "1.000", 
-      "name": "domestic", 
-      "time": "104.83"
-    }, 
-    {
-      "duration": "0.96", 
-      "confidence": "1.000", 
-      "name": "violence", 
-      "time": "105.40"
-    }, 
-    {
-      "duration": "0", 
-      "confidence": "1.000", 
-      "name": ".", 
-      "time": "106.36"
-    }, 
-    {
-      "duration": "0.12", 
-      "confidence": "0.970", 
-      "name": "And", 
-      "time": "107.19"
-    }, 
-    {
-      "duration": "0.36", 
-      "confidence": "1.000", 
-      "name": "everything", 
-      "time": "107.32"
-    }, 
-    {
-      "duration": "0.18", 
-      "confidence": "0.440", 
-      "name": "just", 
-      "time": "107.68"
+      "duration": "0.53", 
+      "confidence": "0.830", 
+      "name": "videos", 
+      "time": "54.76"
     }, 
     {
       "duration": "0.48", 
       "confidence": "1.000", 
-      "name": "goes", 
-      "time": "107.86"
+      "name": "relevant", 
+      "time": "55.41"
     }, 
     {
-      "duration": "0.32", 
-      "confidence": "0.780", 
-      "name": "off", 
-      "time": "108.56"
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "to", 
+      "time": "55.89"
     }, 
     {
-      "duration": "0.18", 
-      "confidence": "0.780", 
+      "duration": "0.12", 
+      "confidence": "0.980", 
       "name": "the", 
-      "time": "108.88"
-    }, 
-    {
-      "duration": "0.29", 
-      "confidence": "0.910", 
-      "name": "road", 
-      "time": "109.06"
-    }, 
-    {
-      "duration": "0.18", 
-      "confidence": "0.870", 
-      "name": "like", 
-      "time": "109.37"
-    }, 
-    {
-      "duration": "0.20", 
-      "confidence": "0.940", 
-      "name": "like", 
-      "time": "109.94"
+      "time": "56.04"
     }, 
     {
       "duration": "0.36", 
       "confidence": "1.000", 
-      "name": "every", 
-      "time": "110.68"
+      "name": "search", 
+      "time": "56.16"
     }, 
     {
-      "duration": "0.69", 
-      "confidence": "1.000", 
-      "name": "car", 
-      "time": "111.04"
+      "duration": "0.29", 
+      "confidence": "0.890", 
+      "name": "term", 
+      "time": "56.52"
     }, 
     {
-      "duration": "0.17", 
-      "confidence": "0.370", 
-      "name": "your", 
-      "time": "112.46"
-    }, 
-    {
-      "duration": "0.33", 
-      "confidence": "1.000", 
-      "name": "rush", 
-      "time": "112.66"
-    }, 
-    {
-      "duration": "0.15", 
-      "confidence": "0.700", 
-      "name": "hour", 
-      "time": "112.99"
-    }, 
-    {
-      "duration": "0.18", 
-      "confidence": "0.540", 
-      "name": "just", 
-      "time": "113.15"
-    }, 
-    {
-      "duration": "0.27", 
-      "confidence": "1.000", 
-      "name": "goes off", 
-      "time": "113.35"
-    }, 
-    {
-      "duration": "0.68", 
-      "confidence": "1.000", 
-      "name": "the road", 
-      "time": "113.68"
-    }, 
-    {
-      "duration": "0", 
-      "confidence": "1.000", 
+      "duration": "0.02", 
+      "confidence": "0.550", 
       "name": ".", 
-      "time": "114.36"
+      "time": "56.81"
     }, 
     {
-      "duration": "0.49", 
-      "confidence": "0.380", 
-      "name": "It's", 
-      "time": "114.85"
+      "duration": "0.09", 
+      "confidence": "0.990", 
+      "name": "The", 
+      "time": "59.12"
+    }, 
+    {
+      "duration": "0.36", 
+      "confidence": "0.980", 
+      "name": "user", 
+      "time": "59.22"
+    }, 
+    {
+      "duration": "0.24", 
+      "confidence": "1.000", 
+      "name": "can", 
+      "time": "59.58"
     }, 
     {
       "duration": "0.21", 
-      "confidence": "0.300", 
-      "name": "all", 
-      "time": "115.52"
-    }, 
-    {
-      "duration": "0.23", 
-      "confidence": "0.930", 
-      "name": "like", 
-      "time": "115.87"
-    }, 
-    {
-      "duration": "0.35", 
-      "confidence": "0.740", 
-      "name": "addiction", 
-      "time": "116.10"
-    }, 
-    {
-      "duration": "0.39", 
-      "confidence": "0.560", 
-      "name": ".", 
-      "time": "116.53"
-    }, 
-    {
-      "duration": "0.26", 
-      "confidence": "0.570", 
-      "name": "But", 
-      "time": "117.47"
-    }, 
-    {
-      "duration": "0.84", 
       "confidence": "1.000", 
-      "name": "irrational", 
-      "time": "118.09"
+      "name": "then", 
+      "time": "59.82"
     }, 
     {
-      "duration": "0.78", 
+      "duration": "0.18", 
       "confidence": "1.000", 
-      "name": "consumption", 
-      "time": "118.93"
+      "name": "go", 
+      "time": "60.03"
     }, 
     {
-      "duration": "0.12", 
-      "confidence": "0.860", 
-      "name": "in", 
-      "time": "119.95"
-    }, 
-    {
-      "duration": "0.75", 
+      "duration": "0.24", 
       "confidence": "1.000", 
-      "name": "economics", 
-      "time": "120.07"
+      "name": "ahead", 
+      "time": "60.21"
     }, 
     {
       "duration": "0.15", 
       "confidence": "1.000", 
-      "name": "is", 
-      "time": "121.27"
+      "name": "and", 
+      "time": "60.45"
     }, 
     {
-      "duration": "0.30", 
+      "duration": "0.46", 
       "confidence": "1.000", 
-      "name": "sort", 
-      "time": "121.42"
+      "name": "insert", 
+      "time": "60.60"
+    }, 
+    {
+      "duration": "0.11", 
+      "confidence": "0.790", 
+      "name": "the", 
+      "time": "61.06"
+    }, 
+    {
+      "duration": "0.42", 
+      "confidence": "0.990", 
+      "name": "B-roll", 
+      "time": "61.17"
+    }, 
+    {
+      "duration": "0.44", 
+      "confidence": "1.000", 
+      "name": "video", 
+      "time": "61.62"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "in", 
+      "time": "62.07"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "0.610", 
+      "name": "this", 
+      "time": "62.22"
+    }, 
+    {
+      "duration": "0.57", 
+      "confidence": "1.000", 
+      "name": "specific", 
+      "time": "62.37"
+    }, 
+    {
+      "duration": "0.51", 
+      "confidence": "1.000", 
+      "name": "location.", 
+      "time": "62.94"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "To", 
+      "time": "66.70"
+    }, 
+    {
+      "duration": "0.35", 
+      "confidence": "1.000", 
+      "name": "change", 
+      "time": "66.85"
+    }, 
+    {
+      "duration": "0.13", 
+      "confidence": "0.610", 
+      "name": "the", 
+      "time": "67.20"
+    }, 
+    {
+      "duration": "0.54", 
+      "confidence": "1.000", 
+      "name": "location", 
+      "time": "67.33"
     }, 
     {
       "duration": "0.15", 
       "confidence": "1.000", 
       "name": "of", 
-      "time": "121.72"
-    }, 
-    {
-      "duration": "0.34", 
-      "confidence": "0.770", 
-      "name": "like", 
-      "time": "121.87"
-    }, 
-    {
-      "duration": "0", 
-      "confidence": "1.000", 
-      "name": ".", 
-      "time": "122.21"
-    }, 
-    {
-      "duration": "0.27", 
-      "confidence": "1.000", 
-      "name": "More", 
-      "time": "122.89"
-    }, 
-    {
-      "duration": "0.39", 
-      "confidence": "0.980", 
-      "name": "like", 
-      "time": "123.16"
+      "time": "67.87"
     }, 
     {
       "duration": "0.12", 
       "confidence": "1.000", 
-      "name": "you", 
-      "time": "124.81"
+      "name": "the", 
+      "time": "68.02"
+    }, 
+    {
+      "duration": "0.50", 
+      "confidence": "1.000", 
+      "name": "video", 
+      "time": "68.14"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "69.04"
     }, 
     {
       "duration": "0.33", 
       "confidence": "1.000", 
-      "name": "know", 
-      "time": "124.93"
-    }, 
-    {
-      "duration": "0.23", 
-      "confidence": "0.450", 
-      "name": "that's", 
-      "time": "125.45"
-    }, 
-    {
-      "duration": "0.07", 
-      "confidence": "0.770", 
-      "name": "the", 
-      "time": "125.70"
+      "name": "user", 
+      "time": "69.16"
     }, 
     {
       "duration": "0.21", 
-      "confidence": "0.970", 
-      "name": "new", 
-      "time": "125.77"
-    }, 
-    {
-      "duration": "0.51", 
       "confidence": "1.000", 
-      "name": "normal", 
-      "time": "126.04"
+      "name": "can", 
+      "time": "69.49"
     }, 
     {
-      "duration": "0.15", 
-      "confidence": "0.430", 
-      "name": ".", 
-      "time": "126.56"
-    }, 
-    {
-      "duration": "0.30", 
+      "duration": "0.45", 
       "confidence": "0.650", 
-      "name": "People", 
-      "time": "126.71"
-    }, 
-    {
-      "duration": "0.18", 
-      "confidence": "1.000", 
-      "name": "are", 
-      "time": "127.09"
-    }, 
-    {
-      "duration": "0.36", 
-      "confidence": "1.000", 
-      "name": "still", 
-      "time": "127.27"
-    }, 
-    {
-      "duration": "0.30", 
-      "confidence": "1.000", 
-      "name": "on", 
-      "time": "127.63"
+      "name": "drag", 
+      "time": "69.70"
     }, 
     {
       "duration": "0.09", 
       "confidence": "1.000", 
       "name": "the", 
-      "time": "127.93"
-    }, 
-    {
-      "duration": "0.51", 
-      "confidence": "1.000", 
-      "name": "road", 
-      "time": "128.02"
-    }, 
-    {
-      "duration": "0", 
-      "confidence": "1.000", 
-      "name": ".", 
-      "time": "128.53"
-    }, 
-    {
-      "duration": "0.15", 
-      "confidence": "1.000", 
-      "name": "And", 
-      "time": "129.16"
-    }, 
-    {
-      "duration": "0.27", 
-      "confidence": "1.000", 
-      "name": "yet", 
-      "time": "129.31"
-    }, 
-    {
-      "duration": "0.12", 
-      "confidence": "1.000", 
-      "name": "they", 
-      "time": "129.67"
-    }, 
-    {
-      "duration": "0.24", 
-      "confidence": "1.000", 
-      "name": "don't", 
-      "time": "129.79"
-    }, 
-    {
-      "duration": "1.17", 
-      "confidence": "0.960", 
-      "name": "maximize", 
-      "time": "130.12"
-    }, 
-    {
-      "duration": "0.18", 
-      "confidence": "1.000", 
-      "name": "their", 
-      "time": "131.29"
-    }, 
-    {
-      "duration": "0.99", 
-      "confidence": "1.000", 
-      "name": "choices", 
-      "time": "131.47"
-    }, 
-    {
-      "duration": "0.45", 
-      "confidence": "1.000", 
-      "name": "because", 
-      "time": "132.88"
-    }, 
-    {
-      "duration": "0.14", 
-      "confidence": "1.000", 
-      "name": "they", 
-      "time": "133.73"
-    }, 
-    {
-      "duration": "0.36", 
-      "confidence": "0.960", 
-      "name": "believe", 
-      "time": "133.90"
-    }, 
-    {
-      "duration": "0.14", 
-      "confidence": "0.670", 
-      "name": "in", 
-      "time": "134.26"
-    }, 
-    {
-      "duration": "0.17", 
-      "confidence": "0.550", 
-      "name": "", 
-      "time": "134.40"
-    }, 
-    {
-      "duration": "0.61", 
-      "confidence": "0.260", 
-      "name": "Jesus", 
-      "time": "134.57"
-    }, 
-    {
-      "duration": "0.13", 
-      "confidence": "0.990", 
-      "name": "or", 
-      "time": "135.45"
-    }, 
-    {
-      "duration": "0.21", 
-      "confidence": "0.630", 
-      "name": "they", 
-      "time": "135.58"
-    }, 
-    {
-      "duration": "0.30", 
-      "confidence": "0.990", 
-      "name": "rather", 
-      "time": "135.79"
-    }, 
-    {
-      "duration": "0.33", 
-      "confidence": "0.960", 
-      "name": "stick", 
-      "time": "136.09"
-    }, 
-    {
-      "duration": "0.18", 
-      "confidence": "0.970", 
-      "name": "by", 
-      "time": "136.54"
-    }, 
-    {
-      "duration": "0.21", 
-      "confidence": "0.600", 
-      "name": "their", 
-      "time": "136.72"
-    }, 
-    {
-      "duration": "0.33", 
-      "confidence": "0.380", 
-      "name": "loyal", 
-      "time": "136.93"
-    }, 
-    {
-      "duration": "0.39", 
-      "confidence": "0.620", 
-      "name": "", 
-      "time": "137.30"
-    }, 
-    {
-      "duration": "0.10", 
-      "confidence": "1.000", 
-      "name": "to", 
-      "time": "137.70"
-    }, 
-    {
-      "duration": "0.18", 
-      "confidence": "1.000", 
-      "name": "their", 
-      "time": "137.80"
-    }, 
-    {
-      "duration": "0.84", 
-      "confidence": "1.000", 
-      "name": "friends", 
-      "time": "137.98"
-    }, 
-    {
-      "duration": "0.21", 
-      "confidence": "0.730", 
-      "name": "go", 
-      "time": "139.08"
-    }, 
-    {
-      "duration": "0.15", 
-      "confidence": "0.970", 
-      "name": "to", 
-      "time": "139.35"
-    }, 
-    {
-      "duration": "0.15", 
-      "confidence": "0.930", 
-      "name": "their", 
-      "time": "139.51"
-    }, 
-    {
-      "duration": "0.93", 
-      "confidence": "1.000", 
-      "name": "family", 
-      "time": "139.66"
-    }, 
-    {
-      "duration": "0.16", 
-      "confidence": "0.460", 
-      "name": "they", 
-      "time": "140.74"
-    }, 
-    {
-      "duration": "0.17", 
-      "confidence": "0.610", 
-      "name": "got", 
-      "time": "140.96"
-    }, 
-    {
-      "duration": "0.25", 
-      "confidence": "0.380", 
-      "name": "is", 
-      "time": "141.16"
-    }, 
-    {
-      "duration": "0.21", 
-      "confidence": "1.000", 
-      "name": "like", 
-      "time": "141.61"
-    }, 
-    {
-      "duration": "0.12", 
-      "confidence": "0.990", 
-      "name": "they", 
-      "time": "141.82"
-    }, 
-    {
-      "duration": "0.33", 
-      "confidence": "1.000", 
-      "name": "got", 
-      "time": "141.94"
-    }, 
-    {
-      "duration": "0.06", 
-      "confidence": "0.920", 
-      "name": "they", 
-      "time": "142.42"
-    }, 
-    {
-      "duration": "0.30", 
-      "confidence": "0.410", 
-      "name": "can't", 
-      "time": "142.48"
-    }, 
-    {
-      "duration": "0.24", 
-      "confidence": "0.420", 
-      "name": "swallow", 
-      "time": "142.79"
-    }, 
-    {
-      "duration": "0.23", 
-      "confidence": "0.410", 
-      "name": "their", 
-      "time": "143.04"
-    }, 
-    {
-      "duration": "0.57", 
-      "confidence": "0.440", 
-      "name": "pride", 
-      "time": "143.35"
-    }, 
-    {
-      "duration": "0.18", 
-      "confidence": "0.990", 
-      "name": "so", 
-      "time": "143.92"
-    }, 
-    {
-      "duration": "0.33", 
-      "confidence": "0.710", 
-      "name": "they'll", 
-      "time": "144.13"
-    }, 
-    {
-      "duration": "0.66", 
-      "confidence": "0.840", 
-      "name": "maximize", 
-      "time": "144.85"
-    }, 
-    {
-      "duration": "0.12", 
-      "confidence": "0.960", 
-      "name": "their", 
-      "time": "145.51"
-    }, 
-    {
-      "duration": "0.60", 
-      "confidence": "1.000", 
-      "name": "ecomonomic choices", 
-      "time": "146.29"
-    }, 
-    {
-      "duration": "0.03", 
-      "confidence": "1.000", 
-      "name": ".", 
-      "time": "147.31"
-    }, 
-    {
-      "duration": "0.15", 
-      "confidence": "0.980", 
-      "name": "It's", 
-      "time": "148.05"
-    }, 
-    {
-      "duration": "0.18", 
-      "confidence": "0.590", 
-      "name": "not", 
-      "time": "148.21"
-    }, 
-    {
-      "duration": "0.04", 
-      "confidence": "0.720", 
-      "name": "", 
-      "time": "148.42"
-    }, 
-    {
-      "duration": "0.47", 
-      "confidence": "0.780", 
-      "name": "about", 
-      "time": "148.49"
-    }, 
-    {
-      "duration": "0.55", 
-      "confidence": "0.830", 
-      "name": ".", 
-      "time": "148.97"
-    }, 
-    {
-      "duration": "0.15", 
-      "confidence": "0.990", 
-      "name": "It's", 
-      "time": "149.74"
-    }, 
-    {
-      "duration": "0.33", 
-      "confidence": "1.000", 
-      "name": "not", 
-      "time": "149.89"
-    }, 
-    {
-      "duration": "0.36", 
-      "confidence": "1.000", 
-      "name": "even", 
-      "time": "150.25"
-    }, 
-    {
-      "duration": "0.36", 
-      "confidence": "1.000", 
-      "name": "about", 
-      "time": "150.61"
-    }, 
-    {
-      "duration": "0.50", 
-      "confidence": "0.940", 
-      "name": "breaking", 
-      "time": "150.97"
-    }, 
-    {
-      "duration": "0.43", 
-      "confidence": "0.550", 
-      "name": "the law", 
-      "time": "151.47"
-    }, 
-    {
-      "duration": "0.86", 
-      "confidence": "0.540", 
-      "name": ".", 
-      "time": "151.94"
-    }, 
-    {
-      "duration": "0.21", 
-      "confidence": "0.990", 
-      "name": "Right", 
-      "time": "153.12"
-    }, 
-    {
-      "duration": "0.12", 
-      "confidence": "0.860", 
-      "name": ".", 
-      "time": "153.33"
-    }, 
-    {
-      "duration": "0.21", 
-      "confidence": "1.000", 
-      "name": "That's", 
-      "time": "153.46"
-    }, 
-    {
-      "duration": "0.30", 
-      "confidence": "1.000", 
-      "name": "when", 
-      "time": "153.67"
-    }, 
-    {
-      "duration": "0", 
-      "confidence": "1.000", 
-      "name": ".", 
-      "time": "153.97"
-    }, 
-    {
-      "duration": "0.27", 
-      "confidence": "1.000", 
-      "name": "Every", 
-      "time": "154.72"
-    }, 
-    {
-      "duration": "0.51", 
-      "confidence": "1.000", 
-      "name": "car", 
-      "time": "154.99"
-    }, 
-    {
-      "duration": "0.30", 
-      "confidence": "1.000", 
-      "name": "during", 
-      "time": "155.56"
-    }, 
-    {
-      "duration": "0.30", 
-      "confidence": "1.000", 
-      "name": "rush", 
-      "time": "155.86"
-    }, 
-    {
-      "duration": "0.18", 
-      "confidence": "1.000", 
-      "name": "hour", 
-      "time": "156.16"
+      "time": "70.33"
     }, 
     {
       "duration": "0.63", 
       "confidence": "1.000", 
-      "name": "traffic", 
-      "time": "156.34"
-    }, 
-    {
-      "duration": "0.30", 
-      "confidence": "1.000", 
-      "name": "goes", 
-      "time": "157.15"
-    }, 
-    {
-      "duration": "0.39", 
-      "confidence": "0.550", 
-      "name": "after", 
-      "time": "157.50"
-    }, 
-    {
-      "duration": "0.06", 
-      "confidence": "0.990", 
-      "name": "you", 
-      "time": "159.08"
+      "name": "thumbnail", 
+      "time": "70.42"
     }, 
     {
       "duration": "0.24", 
-      "confidence": "0.990", 
-      "name": "know", 
-      "time": "159.16"
+      "confidence": "1.000", 
+      "name": "over", 
+      "time": "71.05"
     }, 
     {
-      "duration": "0.68", 
-      "confidence": "0.980", 
-      "name": "addiction", 
-      "time": "159.61"
-    }, 
-    {
-      "duration": "0.43", 
-      "confidence": "0.990", 
-      "name": "breaking", 
-      "time": "160.30"
-    }, 
-    {
-      "duration": "0.06", 
-      "confidence": "0.520", 
+      "duration": "0.12", 
+      "confidence": "1.000", 
       "name": "the", 
-      "time": "160.73"
-    }, 
-    {
-      "duration": "0.70", 
-      "confidence": "0.320", 
-      "name": "law", 
-      "time": "160.79"
-    }, 
-    {
-      "duration": "0", 
-      "confidence": "1.000", 
-      "name": ".", 
-      "time": "161.49"
-    }, 
-    {
-      "duration": "0.27", 
-      "confidence": "1.000", 
-      "name": "Having", 
-      "time": "162.04"
-    }, 
-    {
-      "duration": "0.18", 
-      "confidence": "1.000", 
-      "name": "to", 
-      "time": "162.31"
-    }, 
-    {
-      "duration": "0.31", 
-      "confidence": "1.000", 
-      "name": "turn", 
-      "time": "162.49"
-    }, 
-    {
-      "duration": "0.08", 
-      "confidence": "0.570", 
-      "name": "to", 
-      "time": "162.80"
-    }, 
-    {
-      "duration": "0.81", 
-      "confidence": "1.000", 
-      "name": "crime", 
-      "time": "162.88"
-    }, 
-    {
-      "duration": "0.24", 
-      "confidence": "1.000", 
-      "name": "to", 
-      "time": "164.26"
-    }, 
-    {
-      "duration": "0.21", 
-      "confidence": "1.000", 
-      "name": "make", 
-      "time": "165.01"
-    }, 
-    {
-      "duration": "0.54", 
-      "confidence": "1.000", 
-      "name": "money", 
-      "time": "165.22"
-    }, 
-    {
-      "duration": "0.03", 
-      "confidence": "0.980", 
-      "name": ".", 
-      "time": "165.76"
-    }, 
-    {
-      "duration": "0.18", 
-      "confidence": "1.000", 
-      "name": "That's", 
-      "time": "166.00"
-    }, 
-    {
-      "duration": "0.21", 
-      "confidence": "0.930", 
-      "name": "what", 
-      "time": "166.18"
-    }, 
-    {
-      "duration": "0.36", 
-      "confidence": "1.000", 
-      "name": "every", 
-      "time": "166.39"
-    }, 
-    {
-      "duration": "0.45", 
-      "confidence": "1.000", 
-      "name": "car", 
-      "time": "166.75"
-    }, 
-    {
-      "duration": "0.19", 
-      "confidence": "1.000", 
-      "name": "on", 
-      "time": "167.20"
-    }, 
-    {
-      "duration": "0.08", 
-      "confidence": "0.680", 
-      "name": "the", 
-      "time": "167.39"
-    }, 
-    {
-      "duration": "0.51", 
-      "confidence": "1.000", 
-      "name": "road", 
-      "time": "167.47"
-    }, 
-    {
-      "duration": "0", 
-      "confidence": "1.000", 
-      "name": ".", 
-      "time": "167.98"
-    }, 
-    {
-      "duration": "0.27", 
-      "confidence": "1.000", 
-      "name": "Goes", 
-      "time": "168.64"
-    }, 
-    {
-      "duration": "0.34", 
-      "confidence": "0.610", 
-      "name": "off", 
-      "time": "168.91"
-    }, 
-    {
-      "duration": "0.21", 
-      "confidence": "1.000", 
-      "name": "like", 
-      "time": "169.93"
-    }, 
-    {
-      "duration": "0.21", 
-      "confidence": "1.000", 
-      "name": "every", 
-      "time": "170.29"
-    }, 
-    {
-      "duration": "0.32", 
-      "confidence": "0.980", 
-      "name": "car", 
-      "time": "170.50"
-    }, 
-    {
-      "duration": "0.09", 
-      "confidence": "0.610", 
-      "name": "at", 
-      "time": "170.85"
-    }, 
-    {
-      "duration": "0.27", 
-      "confidence": "1.000", 
-      "name": "rush", 
-      "time": "170.95"
-    }, 
-    {
-      "duration": "0.18", 
-      "confidence": "1.000", 
-      "name": "hour", 
-      "time": "171.22"
-    }, 
-    {
-      "duration": "0.27", 
-      "confidence": "1.000", 
-      "name": "goes", 
-      "time": "171.40"
-    }, 
-    {
-      "duration": "0.21", 
-      "confidence": "0.990", 
-      "name": "off the road", 
-      "time": "171.67"
-    }, 
-    {
-      "duration": "0", 
-      "confidence": "1.000", 
-      "name": ".", 
-      "time": "171.88"
-    }, 
-    {
-      "duration": "0.39", 
-      "confidence": "0.820", 
-      "name": "We're talking", 
-      "time": "172.97"
-    }, 
-    {
-      "duration": "0.19", 
-      "confidence": "0.710", 
-      "name": "about", 
-      "time": "173.39"
-    }, 
-    {
-      "duration": "0.72", 
-      "confidence": "1.000", 
-      "name": "normal", 
-      "time": "173.65"
-    }, 
-    {
-      "duration": "0.20", 
-      "confidence": "0.940", 
-      "name": "so like", 
-      "time": "174.57"
-    }, 
-    {
-      "duration": "0.04", 
-      "confidence": "0.940", 
-      "name": ".", 
-      "time": "174.78"
-    }, 
-    {
-      "duration": "0.18", 
-      "confidence": "1.000", 
-      "name": "So", 
-      "time": "174.82"
-    }, 
-    {
-      "duration": "0.27", 
-      "confidence": "1.000", 
-      "name": "like", 
-      "time": "175.00"
-    }, 
-    {
-      "duration": "0.66", 
-      "confidence": "1.000", 
-      "name": "daylight", 
-      "time": "175.39"
-    }, 
-    {
-      "duration": "0.60", 
-      "confidence": "1.000", 
-      "name": "savings", 
-      "time": "176.29"
-    }, 
-    {
-      "duration": "0.60", 
-      "confidence": "1.000", 
-      "name": "time", 
-      "time": "176.89"
-    }, 
-    {
-      "duration": "0.29", 
-      "confidence": "0.430", 
-      "name": "world", 
-      "time": "177.67"
-    }, 
-    {
-      "duration": "0.47", 
-      "confidence": "0.350", 
-      "name": ".", 
-      "time": "178.13"
-    }, 
-    {
-      "duration": "0.42", 
-      "confidence": "0.940", 
-      "name": "Not talking", 
-      "time": "178.99"
-    }, 
-    {
-      "duration": "0.23", 
-      "confidence": "0.950", 
-      "name": "about", 
-      "time": "179.44"
-    }, 
-    {
-      "duration": "0.24", 
-      "confidence": "1.000", 
-      "name": "like", 
-      "time": "179.68"
-    }, 
-    {
-      "duration": "0.26", 
-      "confidence": "0.880", 
-      "name": "night", 
-      "time": "180.67"
-    }, 
-    {
-      "duration": "0.43", 
-      "confidence": "0.960", 
-      "name": "time", 
-      "time": "180.96"
-    }, 
-    {
-      "duration": "0.46", 
-      "confidence": "0.840", 
-      "name": "Dracula", 
-      "time": "181.42"
-    }, 
-    {
-      "duration": "0.30", 
-      "confidence": "0.930", 
-      "name": "like", 
-      "time": "181.90"
-    }, 
-    {
-      "duration": "0.60", 
-      "confidence": "0.990", 
-      "name": "vampire", 
-      "time": "182.20"
+      "time": "71.29"
     }, 
     {
       "duration": "0.48", 
       "confidence": "1.000", 
-      "name": "world", 
-      "time": "182.80"
-    },
+      "name": "text", 
+      "time": "71.41"
+    }, 
+    {
+      "duration": "0.33", 
+      "confidence": "1.000", 
+      "name": "wherever", 
+      "time": "72.58"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "1.000", 
+      "name": "they", 
+      "time": "72.91"
+    }, 
+    {
+      "duration": "0.33", 
+      "confidence": "1.000", 
+      "name": "want", 
+      "time": "73.12"
+    }, 
+    {
+      "duration": "0.03", 
+      "confidence": "0.950", 
+      "name": ".", 
+      "time": "73.45"
+    }, 
+    {
+      "duration": "0.10", 
+      "confidence": "0.850", 
+      "name": "And", 
+      "time": "75.16"
+    }, 
+    {
+      "duration": "0.09", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "75.36"
+    }, 
+    {
+      "duration": "0.33", 
+      "confidence": "1.000", 
+      "name": "user", 
+      "time": "75.45"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "1.000", 
+      "name": "can", 
+      "time": "75.78"
+    }, 
+    {
+      "duration": "0.27", 
+      "confidence": "1.000", 
+      "name": "also", 
+      "time": "75.99"
+    }, 
+    {
+      "duration": "0.39", 
+      "confidence": "0.980", 
+      "name": "change", 
+      "time": "76.26"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "0.910", 
+      "name": "the", 
+      "time": "76.65"
+    }, 
+    {
+      "duration": "0.51", 
+      "confidence": "1.000", 
+      "name": "duration", 
+      "time": "76.77"
+    }, 
+    {
+      "duration": "0.14", 
+      "confidence": "0.930", 
+      "name": "of", 
+      "time": "77.28"
+    }, 
+    {
+      "duration": "0.10", 
+      "confidence": "0.930", 
+      "name": "the", 
+      "time": "77.42"
+    }, 
+    {
+      "duration": "0.54", 
+      "confidence": "0.770", 
+      "name": "B-roll", 
+      "time": "77.52"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "by", 
+      "time": "78.27"
+    }, 
+    {
+      "duration": "0.45", 
+      "confidence": "0.730", 
+      "name": "dragging", 
+      "time": "78.42"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "78.87"
+    }, 
+    {
+      "duration": "0.18", 
+      "confidence": "1.000", 
+      "name": "end", 
+      "time": "78.99"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "of", 
+      "time": "79.17"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "79.29"
+    }, 
+    {
+      "duration": "0.50", 
+      "confidence": "1.000", 
+      "name": "inserted", 
+      "time": "79.41"
+    }, 
+    {
+      "duration": "0.29", 
+      "confidence": "0.700", 
+      "name": "B-roll", 
+      "time": "79.92"
+    }, 
+    {
+      "duration": "0.27", 
+      "confidence": "0.430", 
+      "name": ".", 
+      "time": "80.21"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "0.960", 
+      "name": "The", 
+      "time": "82.55"
+    }, 
+    {
+      "duration": "0.32", 
+      "confidence": "1.000", 
+      "name": "B-roll", 
+      "time": "82.69"
+    }, 
+    {
+      "duration": "0.54", 
+      "confidence": "0.980", 
+      "name": "insertion", 
+      "time": "83.08"
+    }, 
+    {
+      "duration": "0.30", 
+      "confidence": "0.990", 
+      "name": "then", 
+      "time": "83.65"
+    }, 
+    {
+      "duration": "0.63", 
+      "confidence": "1.000", 
+      "name": "replaces", 
+      "time": "83.95"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "84.58"
+    }, 
+    {
+      "duration": "0.45", 
+      "confidence": "0.430", 
+      "name": "B-roll", 
+      "time": "84.70"
+    }, 
+    {
+      "duration": "0.20", 
+      "confidence": "0.780", 
+      "name": "of", 
+      "time": "85.15"
+    }, 
+    {
+      "duration": "0.10", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "85.35"
+    }, 
+    {
+      "duration": "0.27", 
+      "confidence": "1.000", 
+      "name": "main", 
+      "time": "85.45"
+    }, 
+    {
+      "duration": "0.38", 
+      "confidence": "1.000", 
+      "name": "video.", 
+      "time": "85.72"
+    }, 
+    {
+      "duration": "0.31", 
+      "confidence": "0.880", 
+      "name": "B-script", 
+      "time": "91.16"
+    }, 
+    {
+      "duration": "0.33", 
+      "confidence": "1.000", 
+      "name": "also", 
+      "time": "91.51"
+    }, 
+    {
+      "duration": "0.48", 
+      "confidence": "0.970", 
+      "name": "provides", 
+      "time": "91.84"
+    }, 
+    {
+      "duration": "0.75", 
+      "confidence": "1.000", 
+      "name": "recommendation", 
+      "time": "92.32"
+    }, 
+    {
+      "duration": "0.78", 
+      "confidence": "1.000", 
+      "name": "functionality", 
+      "time": "93.07"
+    }, 
+    {
+      "duration": "0.07", 
+      "confidence": "0.910", 
+      "name": ".", 
+      "time": "93.85"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "On", 
+      "time": "99.02"
+    }, 
+    {
+      "duration": "0.09", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "99.14"
+    }, 
+    {
+      "duration": "0.27", 
+      "confidence": "1.000", 
+      "name": "right", 
+      "time": "99.23"
+    }, 
+    {
+      "duration": "0.36", 
+      "confidence": "1.000", 
+      "name": "side", 
+      "time": "99.50"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "of", 
+      "time": "100.37"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "100.52"
+    }, 
+    {
+      "duration": "0.51", 
+      "confidence": "1.000", 
+      "name": "text", 
+      "time": "100.64"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "you", 
+      "time": "101.90"
+    }, 
+    {
+      "duration": "0.18", 
+      "confidence": "1.000", 
+      "name": "can", 
+      "time": "102.05"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "1.000", 
+      "name": "see", 
+      "time": "102.23"
+    }, 
+    {
+      "duration": "0.69", 
+      "confidence": "1.000", 
+      "name": "overlays", 
+      "time": "102.44"
+    }, 
+    {
+      "duration": "0.18", 
+      "confidence": "1.000", 
+      "name": "that", 
+      "time": "103.28"
+    }, 
+    {
+      "duration": "0.54", 
+      "confidence": "1.000", 
+      "name": "indicate", 
+      "time": "103.46"
+    }, 
+    {
+      "duration": "0.60", 
+      "confidence": "1.000", 
+      "name": "recommended", 
+      "time": "104.00"
+    }, 
+    {
+      "duration": "0.63", 
+      "confidence": "0.970", 
+      "name": "positions", 
+      "time": "104.60"
+    }, 
+    {
+      "duration": "0.18", 
+      "confidence": "1.000", 
+      "name": "and", 
+      "time": "105.26"
+    }, 
+    {
+      "duration": "0.51", 
+      "confidence": "0.900", 
+      "name": "content", 
+      "time": "105.44"
+    }, 
+    {
+      "duration": "0.24", 
+      "confidence": "1.000", 
+      "name": "for", 
+      "time": "105.95"
+    }, 
+    {
+      "duration": "0.39", 
+      "confidence": "0.260", 
+      "name": "B-roll", 
+      "time": "106.21"
+    }, 
+    {
+      "duration": "0.75", 
+      "confidence": "1.000", 
+      "name": "insertions", 
+      "time": "106.64"
+    }, 
+    {
+      "duration": "0.03", 
+      "confidence": "0.770", 
+      "name": ".", 
+      "time": "107.39"
+    }, 
+    {
+      "duration": "0.09", 
+      "confidence": "1.000", 
+      "name": "The", 
+      "time": "108.60"
+    }, 
+    {
+      "duration": "0.30", 
+      "confidence": "1.000", 
+      "name": "user", 
+      "time": "108.69"
+    }, 
+    {
+      "duration": "0.27", 
+      "confidence": "1.000", 
+      "name": "can", 
+      "time": "109.02"
+    }, 
+    {
+      "duration": "0.18", 
+      "confidence": "1.000", 
+      "name": "go", 
+      "time": "109.29"
+    }, 
+    {
+      "duration": "0.27", 
+      "confidence": "1.000", 
+      "name": "ahead", 
+      "time": "109.47"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "1.000", 
+      "name": "and", 
+      "time": "109.77"
+    }, 
+    {
+      "duration": "0.30", 
+      "confidence": "1.000", 
+      "name": "click", 
+      "time": "109.98"
+    }, 
+    {
+      "duration": "0.24", 
+      "confidence": "1.000", 
+      "name": "on", 
+      "time": "110.28"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "one", 
+      "time": "110.58"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "of", 
+      "time": "110.73"
+    }, 
+    {
+      "duration": "0.24", 
+      "confidence": "1.000", 
+      "name": "those", 
+      "time": "110.85"
+    }, 
+    {
+      "duration": "0.84", 
+      "confidence": "1.000", 
+      "name": "recommendations", 
+      "time": "111.09"
+    }, 
+    {
+      "duration": "0.18", 
+      "confidence": "1.000", 
+      "name": "to", 
+      "time": "111.96"
+    }, 
+    {
+      "duration": "0.51", 
+      "confidence": "1.000", 
+      "name": "query", 
+      "time": "112.14"
+    }, 
+    {
+      "duration": "0.21", 
+      "confidence": "1.000", 
+      "name": "for", 
+      "time": "112.65"
+    }, 
+    {
+      "duration": "0.41", 
+      "confidence": "0.410", 
+      "name": "B-roll.", 
+      "time": "113.00"
+    }, 
+    {
+      "duration": "0.09", 
+      "confidence": "0.990", 
+      "name": "The", 
+      "time": "115.12"
+    }, 
+    {
+      "duration": "0.33", 
+      "confidence": "1.000", 
+      "name": "user", 
+      "time": "115.22"
+    }, 
+    {
+      "duration": "0.27", 
+      "confidence": "1.000", 
+      "name": "can", 
+      "time": "115.55"
+    }, 
+    {
+      "duration": "0.27", 
+      "confidence": "1.000", 
+      "name": "then", 
+      "time": "115.82"
+    }, 
+    {
+      "duration": "0.27", 
+      "confidence": "1.000", 
+      "name": "use", 
+      "time": "116.09"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "116.36"
+    }, 
+    {
+      "duration": "0.27", 
+      "confidence": "1.000", 
+      "name": "same", 
+      "time": "116.48"
+    }, 
+    {
+      "duration": "0.47", 
+      "confidence": "0.930", 
+      "name": "insertion", 
+      "time": "116.76"
+    }, 
+    {
+      "duration": "0.66", 
+      "confidence": "1.000", 
+      "name": "mechanism", 
+      "time": "117.23"
+    }, 
+    {
+      "duration": "0.12", 
+      "confidence": "1.000", 
+      "name": "to", 
+      "time": "118.16"
+    }, 
+    {
+      "duration": "0.33", 
+      "confidence": "1.000", 
+      "name": "insert", 
+      "time": "118.28"
+    }, 
+    {
+      "duration": "0.25", 
+      "confidence": "0.500", 
+      "name": "the", 
+      "time": "118.61"
+    }, 
+    {
+      "duration": "0.24", 
+      "confidence": "0.960", 
+      "name": "B-roll", 
+      "time": "118.87"
+    }, 
+    {
+      "duration": "0.15", 
+      "confidence": "1.000", 
+      "name": "in", 
+      "time": "119.12"
+    }, 
+    {
+      "duration": "0.09", 
+      "confidence": "1.000", 
+      "name": "the", 
+      "time": "119.27"
+    }, 
+    {
+      "duration": "0.57", 
+      "confidence": "1.000", 
+      "name": "recommended", 
+      "time": "119.36"
+    }, 
+    {
+      "duration": "0.50", 
+      "confidence": "1.000", 
+      "name": "position", 
+      "time": "119.93"
+    }, 
     {
       "duration": "0.00", 
       "confidence": "1.000", 
       "name": ".", 
-      "time": "184.93"
+      "time": "120.43"
     }
   ], 
   "format": "1.0"
