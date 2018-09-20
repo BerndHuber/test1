@@ -49,37 +49,37 @@
     {
       "duration": "0.10", 
       "confidence": "0.680", 
-      "name": "what", 
+      "name": "for", 
       "time": "8.88"
     }, 
     {
       "duration": "0.19", 
       "confidence": "0.680", 
-      "name": "might", 
+      "name": "my", 
       "time": "8.98"
     }, 
     {
       "duration": "0.17", 
       "confidence": "0.680", 
-      "name": "be", 
+      "name": "video", 
       "time": "9.17"
     }, 
     {
       "duration": "0.21", 
       "confidence": "0.640", 
-      "name": "your", 
+      "name": "entry", 
       "time": "9.34"
     }, 
     {
       "duration": "0.37", 
       "confidence": "1.000", 
-      "name": "entry", 
+      "name": "I'm", 
       "time": "9.61"
     }, 
     {
       "duration": "0.20", 
       "confidence": "0.780", 
-      "name": "point", 
+      "name": "gonna talk", 
       "time": "10.32"
     }, 
     {
@@ -139,7 +139,7 @@
     {
       "duration": "0.28", 
       "confidence": "0.360", 
-      "name": "Heavey", 
+      "name": "behavior", 
       "time": "17.07"
     }, 
     {
@@ -151,7 +151,7 @@
     {
       "duration": "0.49", 
       "confidence": "0.920", 
-      "name": "your", 
+      "name": "behavioral", 
       "time": "18.26"
     }, 
     {
@@ -265,7 +265,7 @@
     {
       "duration": "0.78", 
       "confidence": "0.580", 
-      "name": "Dawnstar", 
+      "name": "there and stuff", 
       "time": "25.91"
     }, 
     {
@@ -433,13 +433,13 @@
     {
       "duration": "0.23", 
       "confidence": "0.940", 
-      "name": "low", 
+      "name": "little", 
       "time": "37.82"
     }, 
     {
       "duration": "0.22", 
       "confidence": "0.780", 
-      "name": "pay", 
+      "name": "bit", 
       "time": "38.13"
     }, 
     {
@@ -493,7 +493,7 @@
     {
       "duration": "0.57", 
       "confidence": "1.000", 
-      "name": "chaotic", 
+      "name": "chaotic element to it", 
       "time": "41.38"
     }, 
     {
@@ -511,13 +511,13 @@
     {
       "duration": "0.07", 
       "confidence": "0.440", 
-      "name": "I", 
+      "name": "A", 
       "time": "43.74"
     }, 
     {
       "duration": "0.41", 
       "confidence": "0.500", 
-      "name": "cast", 
+      "name": "chaos", 
       "time": "43.90"
     }, 
     {
@@ -529,13 +529,13 @@
     {
       "duration": "0.29", 
       "confidence": "0.530", 
-      "name": "low", 
+      "name": "little", 
       "time": "44.81"
     }, 
     {
       "duration": "0.38", 
       "confidence": "0.480", 
-      "name": "again", 
+      "name": "bit", 
       "time": "45.20"
     }, 
     {
@@ -583,13 +583,13 @@
     {
       "duration": "0.24", 
       "confidence": "0.930", 
-      "name": "Want", 
+      "name": "More", 
       "time": "50.12"
     }, 
     {
       "duration": "0.07", 
       "confidence": "0.800", 
-      "name": "a", 
+      "name": "often", 
       "time": "50.37"
     }, 
     {
@@ -601,7 +601,7 @@
     {
       "duration": "0.23", 
       "confidence": "0.660", 
-      "name": "out", 
+      "name": "alot of", 
       "time": "51.39"
     }, 
     {
@@ -613,7 +613,7 @@
     {
       "duration": "0.26", 
       "confidence": "0.650", 
-      "name": "can", 
+      "name": "cannot", 
       "time": "51.90"
     }, 
     {
@@ -727,7 +727,7 @@
     {
       "duration": "0.14", 
       "confidence": "0.660", 
-      "name": "are", 
+      "name": "will", 
       "time": "61.77"
     }, 
     {
@@ -775,7 +775,7 @@
     {
       "duration": "0.12", 
       "confidence": "0.510", 
-      "name": "a", 
+      "name": "their", 
       "time": "65.71"
     }, 
     {
@@ -859,7 +859,7 @@
     {
       "duration": "0.27", 
       "confidence": "0.470", 
-      "name": "Alive", 
+      "name": "Alot of", 
       "time": "72.41"
     }, 
     {
@@ -895,7 +895,7 @@
     {
       "duration": "0.27", 
       "confidence": "0.410", 
-      "name": "lock", 
+      "name": "let", 
       "time": "77.50"
     }, 
     {
@@ -913,13 +913,13 @@
     {
       "duration": "0.08", 
       "confidence": "0.710", 
-      "name": ".", 
+      "name": "", 
       "time": "79.60"
     }, 
     {
       "duration": "0.41", 
       "confidence": "0.700", 
-      "name": "All", 
+      "name": "go", 
       "time": "79.71"
     }, 
     {
@@ -931,13 +931,13 @@
     {
       "duration": "0.21", 
       "confidence": "0.940", 
-      "name": "In", 
+      "name": "You", 
       "time": "80.94"
     }, 
     {
       "duration": "0.30", 
       "confidence": "0.960", 
-      "name": "all", 
+      "name": "know", 
       "time": "81.16"
     }, 
     {
@@ -1117,13 +1117,13 @@
     {
       "duration": "0.39", 
       "confidence": "0.980", 
-      "name": "After", 
+      "name": "Off the", 
       "time": "96.91"
     }, 
     {
       "duration": "0.33", 
       "confidence": "0.980", 
-      "name": "row", 
+      "name": "road", 
       "time": "97.30"
     }, 
     {
@@ -1135,13 +1135,13 @@
     {
       "duration": "0.45", 
       "confidence": "1.000", 
-      "name": "After", 
+      "name": "Off the", 
       "time": "98.29"
     }, 
     {
       "duration": "0.24", 
       "confidence": "0.980", 
-      "name": "row", 
+      "name": "road", 
       "time": "98.74"
     }, 
     {
@@ -1153,13 +1153,13 @@
     {
       "duration": "0.08", 
       "confidence": "0.820", 
-      "name": "a", 
+      "name": "addiction", 
       "time": "99.46"
     }, 
     {
       "duration": "0.39", 
       "confidence": "0.810", 
-      "name": "ditch", 
+      "name": "", 
       "time": "99.58"
     }, 
     {
@@ -1177,13 +1177,13 @@
     {
       "duration": "0.60", 
       "confidence": "0.810", 
-      "name": "alcohol", 
+      "name": "alcoholism", 
       "time": "101.72"
     }, 
     {
       "duration": "0.84", 
       "confidence": "0.600", 
-      "name": "lusong", 
+      "name": "", 
       "time": "102.35"
     }, 
     {
@@ -1255,7 +1255,7 @@
     {
       "duration": "0.29", 
       "confidence": "0.910", 
-      "name": "world", 
+      "name": "road", 
       "time": "109.06"
     }, 
     {
@@ -1309,13 +1309,13 @@
     {
       "duration": "0.27", 
       "confidence": "1.000", 
-      "name": "goes", 
+      "name": "goes off", 
       "time": "113.35"
     }, 
     {
       "duration": "0.68", 
       "confidence": "1.000", 
-      "name": "after", 
+      "name": "the road", 
       "time": "113.68"
     }, 
     {
@@ -1573,19 +1573,19 @@
     {
       "duration": "0.14", 
       "confidence": "0.670", 
-      "name": "and", 
+      "name": "in", 
       "time": "134.26"
     }, 
     {
       "duration": "0.17", 
       "confidence": "0.550", 
-      "name": "use", 
+      "name": "", 
       "time": "134.40"
     }, 
     {
       "duration": "0.61", 
       "confidence": "0.260", 
-      "name": "his", 
+      "name": "Jesus", 
       "time": "134.57"
     }, 
     {
@@ -1621,19 +1621,19 @@
     {
       "duration": "0.21", 
       "confidence": "0.600", 
-      "name": "the", 
+      "name": "their", 
       "time": "136.72"
     }, 
     {
       "duration": "0.33", 
       "confidence": "0.380", 
-      "name": "fire", 
+      "name": "loyal", 
       "time": "136.93"
     }, 
     {
       "duration": "0.39", 
       "confidence": "0.620", 
-      "name": "look", 
+      "name": "", 
       "time": "137.30"
     }, 
     {
@@ -1681,13 +1681,13 @@
     {
       "duration": "0.16", 
       "confidence": "0.460", 
-      "name": "a", 
+      "name": "they", 
       "time": "140.74"
     }, 
     {
       "duration": "0.17", 
       "confidence": "0.610", 
-      "name": "guy", 
+      "name": "got", 
       "time": "140.96"
     }, 
     {
@@ -1717,31 +1717,31 @@
     {
       "duration": "0.06", 
       "confidence": "0.920", 
-      "name": "a", 
+      "name": "they", 
       "time": "142.42"
     }, 
     {
       "duration": "0.30", 
       "confidence": "0.410", 
-      "name": "cast", 
+      "name": "can't", 
       "time": "142.48"
     }, 
     {
       "duration": "0.24", 
       "confidence": "0.420", 
-      "name": "while", 
+      "name": "swallow", 
       "time": "142.79"
     }, 
     {
       "duration": "0.23", 
       "confidence": "0.410", 
-      "name": "they're", 
+      "name": "their", 
       "time": "143.04"
     }, 
     {
       "duration": "0.57", 
       "confidence": "0.440", 
-      "name": "right", 
+      "name": "pride", 
       "time": "143.35"
     }, 
     {
@@ -1771,7 +1771,7 @@
     {
       "duration": "0.60", 
       "confidence": "1.000", 
-      "name": "choice", 
+      "name": "ecomonomic choices", 
       "time": "146.29"
     }, 
     {
@@ -1795,13 +1795,13 @@
     {
       "duration": "0.04", 
       "confidence": "0.720", 
-      "name": "a", 
+      "name": "", 
       "time": "148.42"
     }, 
     {
       "duration": "0.47", 
       "confidence": "0.780", 
-      "name": "robot", 
+      "name": "about", 
       "time": "148.49"
     }, 
     {
@@ -1843,7 +1843,7 @@
     {
       "duration": "0.43", 
       "confidence": "0.550", 
-      "name": "along", 
+      "name": "the law", 
       "time": "151.47"
     }, 
     {
@@ -1957,13 +1957,13 @@
     {
       "duration": "0.06", 
       "confidence": "0.520", 
-      "name": "a", 
+      "name": "the", 
       "time": "160.73"
     }, 
     {
       "duration": "0.70", 
       "confidence": "0.320", 
-      "name": "lock", 
+      "name": "law", 
       "time": "160.79"
     }, 
     {
@@ -2131,7 +2131,7 @@
     {
       "duration": "0.21", 
       "confidence": "0.990", 
-      "name": "off", 
+      "name": "off the road", 
       "time": "171.67"
     }, 
     {
@@ -2143,13 +2143,13 @@
     {
       "duration": "0.39", 
       "confidence": "0.820", 
-      "name": "Without", 
+      "name": "We're talking", 
       "time": "172.97"
     }, 
     {
       "duration": "0.19", 
       "confidence": "0.710", 
-      "name": "a", 
+      "name": "about", 
       "time": "173.39"
     }, 
     {
@@ -2161,7 +2161,7 @@
     {
       "duration": "0.20", 
       "confidence": "0.940", 
-      "name": "life", 
+      "name": "so like", 
       "time": "174.57"
     }, 
     {
@@ -2203,7 +2203,7 @@
     {
       "duration": "0.29", 
       "confidence": "0.430", 
-      "name": "working", 
+      "name": "world", 
       "time": "177.67"
     }, 
     {
@@ -2215,7 +2215,7 @@
     {
       "duration": "0.42", 
       "confidence": "0.940", 
-      "name": "Nothing", 
+      "name": "Not talking", 
       "time": "178.99"
     }, 
     {
@@ -2245,7 +2245,7 @@
     {
       "duration": "0.46", 
       "confidence": "0.840", 
-      "name": "Jackie", 
+      "name": "Dracula", 
       "time": "181.42"
     }, 
     {
@@ -2263,27 +2263,9 @@
     {
       "duration": "0.48", 
       "confidence": "1.000", 
-      "name": "worm", 
+      "name": "world", 
       "time": "182.80"
-    }, 
-    {
-      "duration": "0.26", 
-      "confidence": "0.290", 
-      "name": "find", 
-      "time": "183.53"
-    }, 
-    {
-      "duration": "0.30", 
-      "confidence": "0.540", 
-      "name": "what", 
-      "time": "183.87"
-    }, 
-    {
-      "duration": "0.66", 
-      "confidence": "1.000", 
-      "name": "normal", 
-      "time": "184.27"
-    }, 
+    },
     {
       "duration": "0.00", 
       "confidence": "1.000", 
